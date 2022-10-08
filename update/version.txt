@@ -1,8 +1,0 @@
-{
-    "description":"",
-    "format":".lzma",
-    "main":"学习达人.exe",
-    "updater":"学习达人.exe",
-    "url":"https://avin999.github.io/xx/update",
-    "version":"1.0.0.02"
-}
